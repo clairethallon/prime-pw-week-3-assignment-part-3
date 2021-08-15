@@ -1,9 +1,9 @@
 console.log('****** Part Supply *******');
-// REQUIRED FEATURES
+// REQUI`RED FEATURES
 
 // 1. Create a variable called 'partsNeeded' with a value of the number 40 
-let partsNeeded = 40;
 //    & console.log the variable
+let partsNeeded = 40;
 console.log('1. Number of partsNeeded:', partsNeeded);
 
 // 2. Create a variable call 'supplyChanges' set it to an array containing
